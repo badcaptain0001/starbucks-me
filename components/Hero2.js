@@ -3,7 +3,7 @@ import hero2 from "../assets/hero2.jpg";
 function Hero2() {
   return (
     <div
-      className="flex flex-col-reverse
+      className="flex flex-col
      lg:grid lg:grid-cols-2 lg:mt-8"
     >
       <div className="relative h-[418px] lg:h-[627px] lg:w-[721px] ">
